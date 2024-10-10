@@ -3,9 +3,9 @@ spring:
     name: backend
 
   datasource:
-    url: jdbc:postgresql://shahir-db.c3mac8u4807a.ap-southeast-5.rds.amazonaws.com:5432/testDB`
+    url: jdbc:postgresql://aevoco-db.c3mac8u4807a.ap-southeast-5.rds.amazonaws.com:5432/testDB
     username: postgres
-    password: shahirdb
+    password: aevocodb
 
   jpa:
     properties:
